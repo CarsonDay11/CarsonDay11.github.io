@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    color:white;
+    font-family:fantasy;
+    text-align:center;
+    background-image: url("https://cdn.pixabay.com/animation/2024/01/06/05/30/05-30-03-922_512.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+a {
+    color:white;
+    
+}
+
+.pfp {
+    margin-left:10px;
+}
